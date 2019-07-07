@@ -4,7 +4,15 @@ g
 Git has a mutable index called stage.
 branch is creating
 
-Creating a new branch is quick and simple
+Creating a new branch is quick and aimple
+branch management
+
+
+
+
+
+
+
 
 
 
